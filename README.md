@@ -146,7 +146,6 @@ FROM uk_retail_data;
 * **Map Visualization:** Географическое распределение возвратов.
 * **Slicers (Фильтры):** Поиск по товарам и ценовым сегментам.
 ### DashBoard. Regular one
-![Скриншот Страницы 1 Дашборда]([https://raw.githubusercontent.com/ZakharSverige/Jobs_Dashboard/main/Screenshot%202025-12-12%20003512.png](https://github.com/ZakharSverige/-UK-Retail-/blob/743ba7e6a9f451cff674969a635653ea3829cb55/Dash%20Board.png
-)
+![Скриншот Страницы 1 Дашборда](Dash Board.png)
 
 ![Скриншот Страницы 2 Дашборда](https://raw.githubusercontent.com/ZakharSverige/Jobs_Dashboard/main/Screenshot%202025-12-11%20235445.png)
