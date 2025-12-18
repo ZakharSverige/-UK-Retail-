@@ -10,12 +10,6 @@
 * **Визуализация:** Построить дашборд, позволяющий бизнесу находить причины потерь в один клик.
 
 ---
-
-### Файл Дашборда
-Вы можете найти файл для дашборда здесь: [`Data_Jobs_Dashboard_2.0.pbix`](Data_Jobs_Dashboard_2.0.pbix).
-
-Вы можете найти файл для дашборда здесь: [`Data_Jobs_Dashboard_.pbix`](Data_Jobs_Dashboard.pbix).
-
 ## SQL Аналитика (Подготовка и исследование)
 В этом разделе описан процесс превращения «сырых» данных в структурированный аналитический слой. Основная сложность заключалась в нестабильном формате исходных данных и наличии транзакций отмены.
 
@@ -151,3 +145,8 @@ FROM uk_retail_data;
 * **Hourly Activity:** График, выявивший пиковую нагрузку на продажи в 10:00 и 15:00.
 * **Map Visualization:** Географическое распределение возвратов.
 * **Slicers (Фильтры):** Поиск по товарам и ценовым сегментам.
+### DashBoard. Regular one
+![Скриншот Страницы 1 Дашборда]([https://raw.githubusercontent.com/ZakharSverige/Jobs_Dashboard/main/Screenshot%202025-12-12%20003512.png](https://github.com/ZakharSverige/-UK-Retail-/blob/743ba7e6a9f451cff674969a635653ea3829cb55/Dash%20Board.png
+)
+
+![Скриншот Страницы 2 Дашборда](https://raw.githubusercontent.com/ZakharSverige/Jobs_Dashboard/main/Screenshot%202025-12-11%20235445.png)
