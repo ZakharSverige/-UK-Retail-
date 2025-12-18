@@ -145,7 +145,7 @@ FROM uk_retail_data;
 * **Hourly Activity:** График, выявивший пиковую нагрузку на продажи в 10:00 и 15:00.
 * **Map Visualization:** Географическое распределение возвратов.
 * **Slicers (Фильтры):** Поиск по товарам и ценовым сегментам.
-### DashBoard. Regular one
+### DashBoard
 ![Dashboard](Dash%20Board.png)
-
-![Скриншот Страницы 2 Дашборда](https://raw.githubusercontent.com/ZakharSverige/Jobs_Dashboard/main/Screenshot%202025-12-11%20235445.png)
+### DashBoard. **Premium Change**
+![Premium Change](Premium%20Change.png)
